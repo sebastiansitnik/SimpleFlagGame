@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Euro Flags Quiz</string>
+    <string name="hello_text">Welcome!</string>
+    <string name="ask_for_name">Please type your name</string>
+    <string name="name">your name</string>
+    <string name="confirm">confirm</string>
+    <string name="hello_logged">Hello %1$s</string>
+    <string name="play_button">play</string>
+    <string name="settings">settings</string>
+    <string name="change_name">Change name</string>
+    <string name="change_rounds">Change number of rounds</string>
+    <string name="show_name" translatable="false">%1$s</string>
+    <string name="show_round_in_settings" translatable="false">%1$s</string>
+    <string name="question1">Which country has that flag?</string>
+    <string name="answer" translatable="false">%1$s</string>
+    <string name="round_counter">Round %1$s</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="bad_answer">Incorrect</string>
+    <string name="rounds" translatable="false">%1$i</string>
+    <string name="winning_conditions">Congratulation %1$s, </string>
+    <string name="loosing_conditions">%1$s you need to train harder, </string>
+    <string name="points_acquired">You got %1$s points</string>;
+    <string name="max_rounds">on %1$s</string>
+    <string name="albania">Albania</string>
+    <string name="andorra">Andorra</string>
+    <string name="austria">Austria</string>
+    <string name="belarus">Belarus</string>
+    <string name="belgium">Belgium</string>
+    <string name="bosnia">Bosnia and Herzegovina</string>
+    <string name="bulgaria">Bulgaria</string>
+    <string name="croatia">Croatia</string>
+    <string name="czech">Czech Republic</string>
+    <string name="denmark">Denmark</string>
+    <string name="estonia">Estonia</string>
+    <string name="finland">Finland</string>
+    <string name="france">France</string>
+    <string name="germany">Germany</string>
+    <string name="greece">Greece</string>
+    <string name="hungary">Hungary</string>
+    <string name="iceland">Iceland</string>
+    <string name="ireland">Ireland</string>
+    <string name="italy">Italy</string>
+    <string name="kazakhstan">Kazakhstan</string>
+    <string name="latvia">Latvia</string>
+    <string name="liechtenstein">Liechtenstein</string>
+    <string name="lithuania">Lithuania</string>
+    <string name="luxembourg">Luxembourg</string>
+    <string name="malta">Malta</string>
+    <string name="moldova">Moldova</string>
+    <string name="monaco">Monaco</string>
+    <string name="montenegro">Montenegro</string>
+    <string name="netherlands">Netherlands</string>
+    <string name="north_macedonia">North Macedonia</string>
+    <string name="norway">Norway</string>
+    <string name="poland">Poland</string>
+    <string name="portugal">Portugal</string>
+    <string name="romania">Romania</string>
+    <string name="russia">Russia</string>
+    <string name="sanMarino">San Marino</string>
+    <string name="serbia">Serbia</string>
+    <string name="slovakia">Slovakia</string>
+    <string name="slovenia">Slovenia</string>
+    <string name="spain">Spain</string>
+    <string name="sweden">Sweden</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="turkey">Turkey</string>
+    <string name="ukraine">Ukraine</string>
+    <string name="united_kingdom">Great Britain</string>
+    <string name="vatican">Vatican</string>
+    <string name="choose_rounds_1">5 rounds</string>
+    <string name="choose_rounds_2">10 rounds</string>
+    <string name="choose_rounds_3">20 rounds</string>
+    <string name="choose_rounds_4">30 rounds</string>
+    <string name="play_again">Play Again</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="time_out">Time Out!</string>
+    <string name="pause">Pause</string>
+    <string name="back_to_game">Back to Game</string>
+    <string name="name_and_points" translatable="false">%1$s</string>
+    <string name="points">%1$s pts</string>
+    <string name="testing_add_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="proper_add_id" translatable="false">ca-app-pub-4219279340333624/6769232685</string>
+    <string name="testing_device_1" translatable="false">74553C18B723555B939C415FBFB80C24</string>
+    <string name="questions_extra" translatable="false">questions</string>
+    <string name="round_extra" translatable="false">round</string>
+    <string name="correct_answers_extra" translatable="false">correctAnswers</string>
+    <string name="welcome_screen_policy">The application does not save any personal or confidential data of the user. All information saved in the application remains on the device. After uninstalling the application will be removed.</string>
+</resources>
