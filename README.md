@@ -1,1 +1,1 @@
-# Android Flag Game
+# Simple game for android devices.
