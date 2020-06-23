@@ -1,1 +1,1 @@
-# SimpleFlagGame
+# Android Flag Game
